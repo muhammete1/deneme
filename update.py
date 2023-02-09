@@ -20,6 +20,6 @@ def pageNotFound(error):
 
 if __name__ == "__main__":
 
-    version = "4.0.0"
+    version = "5.0.0"
 
     app.run(debug="on")
